@@ -1,3 +1,10 @@
 # this is form git
 print("Hello form github")
 
+name = "Saira"
+version = "RStudio In - run"
+
+
+print(name)
+print("These lines has been written in Rstudio")
+
